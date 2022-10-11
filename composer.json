@@ -16,7 +16,7 @@
 
         "kphoen/rulerz": "dev-master as 1.0.0",
 
-        "doctrine/dbal": "^2.4"
+        "doctrine/dbal": "^2.4|^3.0"
     },
     "require-dev": {
         "liip/rmt": "^1.2",
